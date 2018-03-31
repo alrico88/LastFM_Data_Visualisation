@@ -1,0 +1,6 @@
+pylast
+urllib
+xmltodict
+pandas
+plotly
+jupyter_dashboards
