@@ -185,7 +185,7 @@ def get_pages(start,end,save_file):
 # please get your own 
 def main():
     global API_KEY
-    API_KEY = "69d7e20935a92181d4f848a8cc22d4e8"  # this is a sample key
+    API_KEY = "YOUR_API_KEY"  # this is a sample key
     global username
     username = raw_input("Please enter your Last.FM username: ")
     save_file = username +".csv"
