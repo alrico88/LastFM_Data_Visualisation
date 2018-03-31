@@ -19,7 +19,7 @@ Once backup is done,
 1. Come back to here and enter your username in the cell below.
 2. Go to https://plot.ly and sign up for an account. This is for plotting the interactive graph in this notebook.
 3. Go to your plotly **account settings &rarr; API KEYS** and click **Regererate Key** to get an API KEY.
-4. Enter the ploty information in the cell below. 
+4. Enter the ploty information in **data_visualiser.ipynb**. 
 5. (optional but **highly recommended**) To view an awesome dashboard of this notebook, go to http://jupyter-dashboards-layout.readthedocs.io/en/latest/getting-started.html. and follow the installation and enabling instructions.
 
 The rest is pretty self explanatory. Have fun!
