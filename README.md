@@ -6,6 +6,8 @@ with **LastFM_Backup.py** first. That downloads all the scrobbles from your Last
 There are a lot of tools to backup scrobbles into .csv, but I made my own because getting information
 on the tags in a scrobble is pretty important to me. This is also the reason why the backup takes a lot
 longer than other tools. But trust me, it's worthwhile! 
+
+### Make sure you are not scrobbling during the backup, or it will mess up the backup!!!
   
 1. Go to https://www.last.fm/api/account/create to create an API account. Call the application whatever you want, leave the other boxes blank and click submit. And then, **copy the API key**.
 2. Open **LastFM_Backup.py** with Notepad. Search for `YOUR_API_KEY` and replace it with the API KEY you obtained from step one.
