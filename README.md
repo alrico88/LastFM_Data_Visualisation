@@ -17,7 +17,7 @@ If the program crashes, just restart the LastFM_Backup.py and it will finish off
 
 Once backup is done,
 1. Type **jupyter notebook** in command prompt and open **data_visualiser.ipynb**.
-2. Enter your Last.fm account username in **data_visualiser.ipynb**.
+2. Enter your Last.fm account details in **data_visualiser.ipynb**.
 2. Go to https://plot.ly and sign up for an account. This is for plotting the interactive graph in this notebook.
 3. Go to your plotly **account settings &rarr; API KEYS** and click **Regererate Key** to get an API KEY.
 4. Enter the ploty information in **data_visualiser.ipynb**. 
