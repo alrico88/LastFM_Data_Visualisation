@@ -1,4 +1,5 @@
 # LastFM_Data_visualisation
+![image](image/last.png)
 Welcome to Last.fm Data Visualiser!  
   
 Before seeing your scrobbles come to life, go ahead and backup your scrobbles
@@ -25,5 +26,6 @@ Once backup is done,
 4. Enter the ploty information in **data_visualiser.ipynb**. 
 5. (optional but **highly recommended**) To view an awesome dashboard of this notebook, go to http://jupyter-dashboards-layout.readthedocs.io/en/latest/getting-started.html and follow the installation and enabling instructions.
 6. Run the code and change the view to dashboard preview.
+![image](image/dashboard.png)
 
 The rest is pretty self explanatory. Have fun!
