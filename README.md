@@ -29,3 +29,9 @@ Once backup is done,
 ![image](image/dashboard.png)
 
 The rest is pretty self explanatory. Have fun!
+
+### Screenshots
+![image](image/screenshots/1.png)
+![image](image/screenshots/2.png)
+![image](image/screenshots/3.png)
+![image](image/screenshots/4.png)
